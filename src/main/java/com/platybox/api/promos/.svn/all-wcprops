@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/sasha/!svn/ver/387/trunk/1/src/main/java/com/platybox/api/promos
+END
+CreatePromos.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/sasha/!svn/ver/359/trunk/1/src/main/java/com/platybox/api/promos/CreatePromos.java
+END
+ConsumePromos.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/sasha/!svn/ver/387/trunk/1/src/main/java/com/platybox/api/promos/ConsumePromos.java
+END
+InvalidatePromos.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/sasha/!svn/ver/359/trunk/1/src/main/java/com/platybox/api/promos/InvalidatePromos.java
+END
+UserPromos.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/sasha/!svn/ver/359/trunk/1/src/main/java/com/platybox/api/promos/UserPromos.java
+END
+DestroyPromos.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/sasha/!svn/ver/359/trunk/1/src/main/java/com/platybox/api/promos/DestroyPromos.java
+END
+SponsoredPromos.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/sasha/!svn/ver/359/trunk/1/src/main/java/com/platybox/api/promos/SponsoredPromos.java
+END
+PlacePromos.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/sasha/!svn/ver/359/trunk/1/src/main/java/com/platybox/api/promos/PlacePromos.java
+END
+ShowPromos.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/sasha/!svn/ver/359/trunk/1/src/main/java/com/platybox/api/promos/ShowPromos.java
+END

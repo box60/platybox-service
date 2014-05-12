@@ -1,0 +1,22 @@
+<html>
+<body>
+<table width="700" height="200" align="center">
+<tr>
+<td>
+<h3>Welcome to Platybox!</h3>
+<p>I want to personally welcome you to Platybox, the minimalist service that connects you back to real life.</p>  
+<p>Help us choose a username and password to finish your registration. Click on, or copy-paste, the following URL into your browser:</p>
+<p><a href="${link}">${link}</a></p>
+<p>Roberto Calderon.</p><br>
+<p>PS: We have a cute platypus that gets lots of cuddles when you follow <a href="http://www.twitter.com/platybox">@platybox</a> or like our <a href="http://www.facebook.com/chowvancouver" >Facebook Page</a>. Make him happy (hint, hint).</p>
+</td>
+<td>
+<img src="http://img.platybox.com/pl/mail01.gif">
+</td>
+</tr>
+</table>
+<table align="center">
+<tr><td><font size="1">Platybox ${year}</font></td></tr>
+</table>
+</body>
+</html>

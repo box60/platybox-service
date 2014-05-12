@@ -1,0 +1,51 @@
+<html>
+<body>
+<table width="700" height="200" align="center">
+<tr><td></td></tr>
+<tr >
+
+<td style="margin-top: 10px; padding-top:20px;">
+<h3>Hi ${username},</h3>
+<p>You have received a Platybox promo:<br>
+</td>
+
+<td rowspan="5">
+	<img src="http://img.platybox.com/pl/mail01.gif">
+</td>
+
+</tr>
+<tr>
+<td style="padding: 10px 10px 10px 10px; font-size: 12px;">
+<h3>${promoName}</h3>
+Claim at: ${placeName}<br>
+${placeAddress}.<br><br>
+Phone: ${placePhone}.<br>
+Directions: <a href="${maplink}">Google Maps</a>
+</td>
+</tr>
+<tr><td><p><a href="${platyboxlink}">Login</a> to your account to see your promo.</p></td></tr>
+<tr><td></td></tr>
+<tr><td style="border-top: solid 1px #ccc; font-size:12px; padding-top: 10px;">
+<h2>How to claim your Platybox promo:</h2>
+
+<ol>
+<li>Visit ${placeName}.</li>
+<li>Visit platybox.com on your mobile.</li> 
+<li>Tap on your promo, displayed on your profile.</li>
+<li>Tap on "Claim" and show the coupon to your server.</li>
+</ol>
+
+If you've registered through SMS, or have linked your phone number to your Platybox account, 
+you will receive your promo as a text message. Show that message to your server at ${placeName}.
+<br><br>
+
+<p>Questions? Follow <a href="http://www.twitter.com/platybox">@platybox</a> or join our <a href="http://www.facebook.com/chowvancouver" >Facebook Page</a>.</p>
+
+</td></tr>
+
+</table>
+<table align="center">
+<tr><td><font size="1">Platybox ${year}</font></td></tr>
+</table>
+</body>
+</html>

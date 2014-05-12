@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/sasha/!svn/ver/386/trunk/1/src/main/webapp/WEB-INF/views/settings
+END
+profile.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/sasha/!svn/ver/386/trunk/1/src/main/webapp/WEB-INF/views/settings/profile.jsp
+END
+account.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/sasha/!svn/ver/386/trunk/1/src/main/webapp/WEB-INF/views/settings/account.jsp
+END
+tiles.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/sasha/!svn/ver/383/trunk/1/src/main/webapp/WEB-INF/views/settings/tiles.xml
+END

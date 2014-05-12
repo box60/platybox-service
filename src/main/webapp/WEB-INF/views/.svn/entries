@@ -1,0 +1,58 @@
+10
+
+dir
+389
+http://team.box60.com/repos/sasha/trunk/1/src/main/webapp/WEB-INF/views
+http://team.box60.com/repos/sasha
+
+
+
+2011-08-11T07:14:48.911174Z
+386
+roberto
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9874dc93-45da-45c1-ab46-ef9fa7251aea
+
+authenticate
+dir
+
+authorize
+dir
+
+exception
+dir
+
+home
+dir
+
+login
+dir
+
+profile
+dir
+
+recover
+dir
+
+register
+dir
+
+settings
+dir
+
+signup
+dir
+

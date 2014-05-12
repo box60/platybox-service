@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/sasha/!svn/ver/359/trunk/1/src/main/java/com/platybox/provider/servlets
+END
+AccessTokenServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/sasha/!svn/ver/359/trunk/1/src/main/java/com/platybox/provider/servlets/AccessTokenServlet.java
+END
+LogoutServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/sasha/!svn/ver/359/trunk/1/src/main/java/com/platybox/provider/servlets/LogoutServlet.java
+END
+RequestTokenServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/sasha/!svn/ver/359/trunk/1/src/main/java/com/platybox/provider/servlets/RequestTokenServlet.java
+END
+CookieMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/sasha/!svn/ver/359/trunk/1/src/main/java/com/platybox/provider/servlets/CookieMap.java
+END

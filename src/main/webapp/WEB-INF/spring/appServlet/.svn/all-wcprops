@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/sasha/!svn/ver/380/trunk/1/src/main/webapp/WEB-INF/spring/appServlet
+END
+controllers.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/sasha/!svn/ver/370/trunk/1/src/main/webapp/WEB-INF/spring/appServlet/controllers.xml
+END
+servlet-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/sasha/!svn/ver/380/trunk/1/src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml
+END
+spring-scheduler.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/sasha/!svn/ver/359/trunk/1/src/main/webapp/WEB-INF/spring/appServlet/spring-scheduler.xml
+END

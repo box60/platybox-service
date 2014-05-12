@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tiles-definitions PUBLIC "-//Apache Software Foundation//DTD Tiles Configuration 2.1//EN" "http://tiles.apache.org/dtds/tiles-config_2_1.dtd">
+
+<tiles-definitions>
+	<definition name="page" templateExpression="/WEB-INF/layouts/page/${currentDevice.mobile ? 'mobile/' : 'standard/'}page.jsp">
+		<put-attribute name="header" expression="/WEB-INF/layouts/page/${currentDevice.mobile ? 'mobile/' : 'standard/'}header.jsp" />
+		<put-attribute name="footer" expression="/WEB-INF/layouts/page/${currentDevice.mobile ? 'mobile/' : 'standard/'}footer.jsp" />
+	</definition>
+	
+	<definition name="signup" templateExpression="/WEB-INF/layouts/signup/${currentDevice.mobile ? 'mobile/' : 'standard/'}page.jsp">
+		<put-attribute name="header" expression="/WEB-INF/layouts/signup/${currentDevice.mobile ? 'mobile/' : 'standard/'}header.jsp"/>
+		<put-attribute name="footer" expression="/WEB-INF/layouts/signup/${currentDevice.mobile ? 'mobile/' : 'standard/'}footer.jsp"/>
+	</definition>
+
+	<definition name="error" templateExpression="/WEB-INF/layouts/error/page.jsp">
+		<put-attribute name="header" expression="/WEB-INF/layouts/error/header.jsp" />
+		<put-attribute name="footer" expression="/WEB-INF/layouts/error/footer.jsp" />
+	</definition>	
+
+	<definition name="authentication" templateExpression="/WEB-INF/layouts/authentication/page.jsp">
+		<put-attribute name="header" expression="/WEB-INF/layouts/authentication/header.jsp" />
+		<put-attribute name="footer" expression="/WEB-INF/layouts/authentication/footer.jsp" />
+	</definition>
+
+	<definition name="authenticationmerchant" templateExpression="/WEB-INF/layouts/authenticationmerchant/page.jsp">
+		<put-attribute name="header" expression="/WEB-INF/layouts/authenticationmerchant/header.jsp" />
+		<put-attribute name="footer" expression="/WEB-INF/layouts/authenticationmerchant/footer.jsp" />
+	</definition>
+		
+</tiles-definitions>
+

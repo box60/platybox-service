@@ -1,0 +1,70 @@
+10
+
+dir
+389
+http://team.box60.com/repos/sasha/trunk/1/src/main/java/com/platybox/api
+http://team.box60.com/repos/sasha
+
+
+
+2011-09-07T16:06:05.017018Z
+389
+roberto
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9874dc93-45da-45c1-ab46-ef9fa7251aea
+
+analytics
+dir
+
+bits
+dir
+
+checkins
+dir
+
+coupons
+dir
+
+friends
+dir
+
+leaders
+dir
+
+links
+dir
+
+ping
+dir
+
+places
+dir
+
+pos
+dir
+
+promos
+dir
+
+quests
+dir
+
+sms
+dir
+
+users
+dir
+

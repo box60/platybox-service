@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/sasha/!svn/ver/383/trunk/1/src/main/java/com/platybox/utils
+END
+RegisterUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/sasha/!svn/ver/383/trunk/1/src/main/java/com/platybox/utils/RegisterUtils.java
+END
+PromosUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/sasha/!svn/ver/359/trunk/1/src/main/java/com/platybox/utils/PromosUtils.java
+END
+CharEscaper.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/sasha/!svn/ver/359/trunk/1/src/main/java/com/platybox/utils/CharEscaper.java
+END
+BitsUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/sasha/!svn/ver/359/trunk/1/src/main/java/com/platybox/utils/BitsUtils.java
+END
+TokenGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/sasha/!svn/ver/359/trunk/1/src/main/java/com/platybox/utils/TokenGenerator.java
+END
+ImageUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/sasha/!svn/ver/383/trunk/1/src/main/java/com/platybox/utils/ImageUtils.java
+END
+IcalScheduler.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/sasha/!svn/ver/359/trunk/1/src/main/java/com/platybox/utils/IcalScheduler.java
+END
+CouponsUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/sasha/!svn/ver/359/trunk/1/src/main/java/com/platybox/utils/CouponsUtils.java
+END
+DateUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/sasha/!svn/ver/378/trunk/1/src/main/java/com/platybox/utils/DateUtils.java
+END
+CreateBitQR.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/sasha/!svn/ver/359/trunk/1/src/main/java/com/platybox/utils/CreateBitQR.java
+END
