@@ -1,86 +1,0 @@
-10
-
-dir
-389
-http://team.box60.com/repos/sasha/trunk/1/src/main/java/com/platybox/app
-http://team.box60.com/repos/sasha
-
-
-
-2011-08-11T07:14:48.911174Z
-386
-roberto
-
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-
-9874dc93-45da-45c1-ab46-ef9fa7251aea
-
-error
-dir
-
-home
-dir
-
-oauth
-dir
-
-package-info.java
-file
-
-
-
-
-2011-12-28T20:00:15.000000Z
-a53ecaf8857a8effe67035fcb9e6c2dd
-2011-07-29T22:11:37.974780Z
-359
-roberto
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-118
-
-ping
-dir
-
-profile
-dir
-
-register
-dir
-
-session
-dir
-
-settings
-dir
-

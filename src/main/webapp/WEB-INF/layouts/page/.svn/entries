@@ -1,34 +1,0 @@
-10
-
-dir
-389
-http://team.box60.com/repos/sasha/trunk/1/src/main/webapp/WEB-INF/layouts/page
-http://team.box60.com/repos/sasha
-
-
-
-2011-08-09T07:30:42.597655Z
-383
-roberto
-
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-
-9874dc93-45da-45c1-ab46-ef9fa7251aea
-
-mobile
-dir
-
-standard
-dir
-
